@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SooOverpowered
 - 👀 I’m interested in all things programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my Discord bot
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me at lehoangminh15122000@gmail.com
 
 <!---
