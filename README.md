@@ -6,7 +6,7 @@
 
 ---
 
-<img align="left" alt="SooOverpowered's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SooOverpowered&show_icons=true&hide_border=true"/>
+<img align="left" alt="SooOverpowered's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SooOverpowered&show_icons=true&hide_border=true&theme=synthwave"/>
 
 <!---
 SooOverpowered/SooOverpowered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
