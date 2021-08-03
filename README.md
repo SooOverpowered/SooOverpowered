@@ -6,9 +6,10 @@
 
 ---
 
-<img align="left" alt="SooOverpowered's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SooOverpowered&show_icons=true&hide_border=true&theme=synthwave&border_radius=5px&locale=en&count_private=true"/>
+<img align="left" alt="SooOverpowered's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SooOverpowered&show_icons=true&hide_border=true&theme=synthwave&border_radius=5px&locale=en&count_private=true"/><br>
 
 ---
+
 <img align="left" alt="SooOverpowered's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooOverpowered&hide_border=true&theme=synthwave&border_radius=5px&locale=en"/>
 <!---
 SooOverpowered/SooOverpowered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
