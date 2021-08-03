@@ -10,7 +10,7 @@
 
 ---
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooOverpowered&hide_border=true&theme=synthwave&border_radius=5px&locale=en)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooOverpowered&hide_border=true&theme=synthwave&border_radius=5px&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SooOverpowered/SooOverpowered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
