@@ -6,7 +6,7 @@
 
 ---
 
-[SooOverpowered's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SooOverpowered&show_icons=true&hide_border=true&theme=synthwave&border_radius=5px&locale=en&count_private=true)
+[![SooOverpowered's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SooOverpowered&show_icons=true&hide_border=true&theme=synthwave&border_radius=5px&locale=en&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
