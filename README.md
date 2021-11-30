@@ -1,7 +1,8 @@
 -   👋 Hi, I’m @SooOverpowered
--   👀 I’m interested in all things programming
--   🌱 I’m currently learning C#
+-   👀 I’m interested in all things programming and technology
+-   🌱 I’m currently learning Javascript and C#
 -   💞️ I’m looking to collaborate on Python projects
+-   🏢 I'm working as a Software Developer and Devops Engineer at Techainer
 -   📫 You can reach me at lehoangminh15122000@gmail.com
 
 ---
