@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Terraform and Ansible**
 
-- 🏢 I'm working as a Software Developer and Devops Engineer at Techainer
+- 🏢 I'm working as a Cloud Engineer at Ataccama
 
 - 📫 How to reach me **lehoangminh15122000@gmail.com**
 
